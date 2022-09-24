@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm venkatesh komalli</h1>
-- 🔭 I’m currently working on **hangman game**
+- 🔭 I’m currently working on **hangman game in c++**
 
-- 🌱 I’m currently learning **python ,c++**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **komallivenkatesh@gmail.com**
 
