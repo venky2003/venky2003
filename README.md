@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm venkatesh komalli</h1>
-- 🔭 I’m currently working on **my sql**
+- 🔭 I’m currently working on **problem solving**
 
 - 🌱 I’m currently learning **java**
 
