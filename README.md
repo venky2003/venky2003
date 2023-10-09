@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm venkatesh komalli</h1>
 - 🔭 I’m currently working on **Summer Internship in APSSDC**
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **DEEP LEARNING**
 
 - 📫 How to reach me **komallivenkatesh@gmail.com**
 
